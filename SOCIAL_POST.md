@@ -8,8 +8,10 @@ The exact post prepared for submission was:
 
 Image: [`assets/bounty-sentinel.png`](assets/bounty-sentinel.png)
 
-## Platform blocker
+## Published post
 
-The existing X account `@WilliamLee19458` is currently marked by X as permanently read-only. A real attempt to publish the post returned: `Your account may not be allowed to perform this action.`
+The required public X post was successfully published from Ivan Babydov's older active account `@babqd777` after the newer account proved to be permanently read-only.
 
-No replacement X account was created to bypass the platform restriction. This file is published as a timestamped public record of the prepared submission text while OpenServ reviews the manual submission route.
+Public post: https://x.com/babqd777/status/2104210829751267472
+
+The published post includes the project image and tags `@openservai`.
